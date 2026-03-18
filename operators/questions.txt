@@ -1,0 +1,32 @@
+# 1. Arithmetic Addition
+# Create two variables a = 10, b = 5. Print the sum using + operator.
+
+# 2. Arithmetic Subtraction
+# Create two variables x = 20, y = 8. Print the difference using - operator.
+
+# 3. Arithmetic Multiplication and Division
+# Create two variables p = 7, q = 3. Print the product and division result using * and /.
+
+# 4. Arithmetic Floor Division, Modulus, Exponent
+# Create variables m = 15, n = 4. Print m//n, m%n, and m**n.
+
+# 5. Relational Operators
+# Create variables a = 10, b = 20. Print the results of a < b, a > b, a == b, a != b.
+
+# 6. Logical Operators
+# Create variables is_adult = True, has_ticket = False. Print the result of:
+# is_adult and has_ticket, is_adult or has_ticket, not is_adult
+
+# 7. Membership Operators
+# Create a list items = ['apple', 'banana', 'cherry']. Check if 'banana' is in the list
+# and 'mango' is not in the list using in and not in.
+
+# 8. Identity Operator
+# Create variables x = [1,2,3], y = x, z = [1,2,3]. Print results of x is y, x is z.
+
+# 9. Combine Arithmetic and Relational
+# Create variables a = 8, b = 3. Check if a + b > 10 and print the result.
+
+# 10. Combine Logical and Membership
+# Create a list fruits = ['apple','orange'], and a variable fruit = 'apple'.
+# Check if fruit is in fruits and print True if yes, otherwise False.
