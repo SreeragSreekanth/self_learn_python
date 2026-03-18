@@ -1,0 +1,29 @@
+# 1. Product Information
+# Create a variable product_name (string) and print its data type.
+
+# 2. Product Price
+# Create a variable price (integer) and print its data type.
+
+# 3. Product Rating
+# Create a variable rating (float) and print its data type.
+
+# 4. Product Availability
+# Create a variable is_available (boolean) and print its data type.
+
+# 5. Customer Review
+# Create a variable review (string) and print its data type.
+
+# 6. Stock Quantity
+# Create a variable stock_quantity (integer) and print its data type.
+
+# 7. Discount
+# Create a variable discount (float) and print its data type.
+
+# 8. On Sale
+# Create a variable on_sale (boolean) and print its data type.
+
+# 9. Seller Name
+# Create a variable seller_name (string) and print its data type.
+
+# 10. Warranty Period
+# Create a variable warranty_years (integer) and print its data type.

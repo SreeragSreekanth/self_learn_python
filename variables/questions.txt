@@ -1,0 +1,38 @@
+# 1. Simple Greeting
+# Create variables greeting and name. Print: "Hello, my name is <name>"
+
+# 2. Introduce Yourself
+# Create variables name, age, and city. Print: 
+# "Hi, I am <name>, I am <age> years old, and I live in <city>"
+
+# 3. Course Enrollment
+# Create variables student_name, course_name, and institute. Print:
+# "<Student_name> has enrolled in <course_name> at <institute>"
+
+# 4. Bank Transaction
+# Create variables acc_num, amount, sender, prn. Print:
+# "A/c <acc_num> credited by Rs <amount> from <sender> PRN <prn>"
+
+# 5. Travel Plan
+# Create variables traveler, destination, days. Print:
+# "<Traveler> is going to <destination> for <days> days"
+
+# 6. Shopping Bill
+# Create variables customer, item, price, quantity. Print:
+# "<Customer> bought <quantity> <item>(s) for Rs <total_price>"
+
+# 7. Weather Report
+# Create variables city, temperature, condition. Print:
+# "The weather in <city> is <temperature>°C and <condition>"
+
+# 8. Exam Result
+# Create variables student_name, subject, marks. Print:
+# "<Student_name> scored <marks> in <subject>"
+
+# 9. Movie Details
+# Create variables movie_name, actor, year. Print:
+# "<Movie_name> starring <actor> was released in <year>"
+
+# 10. Daily Schedule
+# Create variables person, activity1, activity2, activity3. Print:
+# "Today, <person> will <activity1>, then <activity2>, and finally <activity3>"
