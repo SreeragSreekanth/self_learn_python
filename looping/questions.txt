@@ -1,0 +1,24 @@
+BASIC (5 Questions)
+1. Print numbers 1 to 10 using a for loop.
+2. Print even numbers from 2 to 20 using a while loop.
+3. Find the sum of first n numbers (input n).
+4. Print the multiplication table of a number (input n, table till 10).
+5. Print numbers from 1 to 10 but skip 5 using continue.
+
+INTERMEDIATE (5 Questions)
+6. Stop printing numbers when a negative number appears (break). Example list: [2, 4, -3, 5].
+7. Count the number of digits in a number using a while loop.
+8. Reverse a number. Example: input 1234 → output 4321.
+9. Print only prime numbers from 1 to 50 using loops.
+10. Print numbers from 1 to 50 skipping multiples of 3 and 5 (continue).
+
+HARD (5 Questions)
+11. Find the factorial of a number using a loop.
+12. Find the sum of all even Fibonacci numbers less than n.
+13. Print a pattern using nested loops:
+*
+**
+***
+****
+14. Check if a number is a palindrome using a loop.
+15. Take input continuously until the user types 'exit' (use while and break).
